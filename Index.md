@@ -9,6 +9,7 @@ All solved problems organized by pattern/category.
 - [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) - *Easy*
 
 ## Arrays & Hashing
+- [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) - *Easy*
 - [Password Strength](./LeetCode/Medium/Password%20Strength) - *Medium*
 
 ## Math & Geometry
