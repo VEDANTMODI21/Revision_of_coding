@@ -13,6 +13,7 @@ All solved problems organized by pattern/category.
 - [Password Strength](./LeetCode/Medium/Password%20Strength) - *Medium*
 
 ## Math & Geometry
+- [Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) - *Easy*
 - [Check Divisibility by Digit Sum and Product](./LeetCode/Easy/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product) - *Easy*
 - [Sum of Digits in Base K](./LeetCode/Easy/Sum%20of%20Digits%20in%20Base%20K) - *Easy*
 
