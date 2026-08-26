@@ -23,3 +23,6 @@ All solved problems organized by pattern/category.
 
 ## Stack
 - [Count the Number of Special Characters II](./LeetCode/Medium/Count%20the%20Number%20of%20Special%20Characters%20II) - *Medium*
+
+## strings
+- [Delete Characters to Make Fancy String](./LeetCode/Easy/Delete%20Characters%20to%20Make%20Fancy%20String) - *Easy*
