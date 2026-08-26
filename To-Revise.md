@@ -10,3 +10,4 @@ Check these off as you review them!
 - [ ] **Sum of Primes Between Number and Its Reverse** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Sum%20of%20Primes%20Between%20Number%20and%20Its%20Reverse)
 - [ ] **Customers Who Bought All Products** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Customers%20Who%20Bought%20All%20Products)
 - [ ] **Smallest Missing Multiple of K** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K)
+- [ ] **Delete Characters to Make Fancy String** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Delete%20Characters%20to%20Make%20Fancy%20String)
