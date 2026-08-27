@@ -26,3 +26,6 @@ All solved problems organized by pattern/category.
 
 ## strings
 - [Delete Characters to Make Fancy String](./LeetCode/Easy/Delete%20Characters%20to%20Make%20Fancy%20String) - *Easy*
+
+## Greedy
+- [Gas Station](./LeetCode/Medium/Gas%20Station) - *Medium*
