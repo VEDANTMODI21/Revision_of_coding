@@ -14,3 +14,4 @@ Check these off as you review them!
 - [ ] **Gas Station** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Gas%20Station)
 - [ ] **Letter Combinations of a Phone Number** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number)
 - [ ] **Isomorphic Strings** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Isomorphic%20Strings)
+- [ ] **Rotate String** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Rotate%20String)
