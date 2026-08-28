@@ -13,3 +13,4 @@ Check these off as you review them!
 - [ ] **Delete Characters to Make Fancy String** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Delete%20Characters%20to%20Make%20Fancy%20String)
 - [ ] **Gas Station** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Gas%20Station)
 - [ ] **Letter Combinations of a Phone Number** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number)
+- [ ] **Isomorphic Strings** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Isomorphic%20Strings)
