@@ -9,11 +9,7 @@
 | **Tags** | String, Stack, Bracket Sequences |
 | **Link** | [View Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |
 | **Runtime** | 0 ms |
-| **Memory** | 8 MB |
-
-## Approach
-
-simple push and pop and size of the stack
+| **Memory** | 8.4 MB |
 
 ## Problem Description
 
