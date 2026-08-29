@@ -33,3 +33,6 @@ All solved problems organized by pattern/category.
 
 ## Greedy
 - [Gas Station](./LeetCode/Medium/Gas%20Station) - *Medium*
+
+## sliding window and 2 pointers
+- [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) - *Medium*
