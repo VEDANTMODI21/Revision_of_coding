@@ -15,3 +15,4 @@ Check these off as you review them!
 - [ ] **Letter Combinations of a Phone Number** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number)
 - [ ] **Isomorphic Strings** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Isomorphic%20Strings)
 - [ ] **Rotate String** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Rotate%20String)
+- [ ] **Fruit Into Baskets** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Fruit%20Into%20Baskets)
