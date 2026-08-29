@@ -22,6 +22,7 @@ All solved problems organized by pattern/category.
 - [Sum of Digits in Base K](./LeetCode/Easy/Sum%20of%20Digits%20in%20Base%20K) - *Easy*
 
 ## Stack
+- [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) - *Easy*
 - [Count the Number of Special Characters II](./LeetCode/Medium/Count%20the%20Number%20of%20Special%20Characters%20II) - *Medium*
 
 ## strings
