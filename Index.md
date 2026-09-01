@@ -26,6 +26,7 @@ All solved problems organized by pattern/category.
 - [Count the Number of Special Characters II](./LeetCode/Medium/Count%20the%20Number%20of%20Special%20Characters%20II) - *Medium*
 
 ## strings
+- [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) - *Medium*
 - [Rotate String](./LeetCode/Easy/Rotate%20String) - *Easy*
 - [Isomorphic Strings](./LeetCode/Easy/Isomorphic%20Strings) - *Easy*
 - [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) - *Medium*
