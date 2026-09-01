@@ -16,3 +16,4 @@ Check these off as you review them!
 - [ ] **Isomorphic Strings** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Isomorphic%20Strings)
 - [ ] **Rotate String** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Rotate%20String)
 - [ ] **Fruit Into Baskets** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Fruit%20Into%20Baskets)
+- [ ] **Number of Substrings Containing All Three Characters** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters)
