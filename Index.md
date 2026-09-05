@@ -43,3 +43,6 @@ All solved problems organized by pattern/category.
 
 ## Adv Maths
 - [Pow(x, n)](./LeetCode/Medium/Powx%20n) - *Medium*
+
+## Bit Manupulation
+- [Pow(x, n)](./LeetCode/Medium/Powx%20n) - *Medium*
