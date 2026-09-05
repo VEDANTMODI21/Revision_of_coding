@@ -40,3 +40,6 @@ All solved problems organized by pattern/category.
 
 ## sliding window and 2 pointers
 - [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) - *Medium*
+
+## Adv Maths
+- [Pow(x, n)](./LeetCode/Medium/Powx%20n) - *Medium*
