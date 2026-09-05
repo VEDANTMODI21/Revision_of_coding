@@ -5,11 +5,15 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | cpp |
-| **Solved On** | September 5, 2026 |
+| **Solved On** | September 6, 2026 |
 | **Tags** | Math, Recursion |
 | **Link** | [View Problem](https://leetcode.com/problems/powx-n/) |
 | **Runtime** | 0 ms |
-| **Memory** | 8.9 MB |
+| **Memory** | 8.6 MB |
+
+## Approach
+
+avoid using pow function
 
 ## Problem Description
 
