@@ -19,3 +19,4 @@ Check these off as you review them!
 - [ ] **Number of Substrings Containing All Three Characters** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters)
 - [ ] **Construct Uniform Parity Array II** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II)
 - [ ] **Minimum Bit Flips to Convert Number** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Minimum%20Bit%20Flips%20to%20Convert%20Number)
+- [ ] **Pow(x, n)** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Powx%20n)
