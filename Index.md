@@ -42,6 +42,7 @@ All solved problems organized by pattern/category.
 - [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) - *Medium*
 
 ## Adv Maths
+- [Distinct Prime Factors of Product of Array](./LeetCode/Medium/Distinct%20Prime%20Factors%20of%20Product%20of%20Array) - *Medium*
 - [Pow(x, n)](./LeetCode/Medium/Powx%20n) - *Medium*
 
 ## Bit Manupulation
