@@ -47,3 +47,6 @@ All solved problems organized by pattern/category.
 
 ## Bit Manupulation
 - [Pow(x, n)](./LeetCode/Medium/Powx%20n) - *Medium*
+
+## Dynamic Programming
+- [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) - *Easy*
