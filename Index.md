@@ -10,6 +10,7 @@ All solved problems organized by pattern/category.
 - [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) - *Easy*
 
 ## Arrays & Hashing
+- [Check if Array is Good](./LeetCode/Easy/Check%20if%20Array%20is%20Good) - *Easy*
 - [Power of Two](./LeetCode/Easy/Power%20of%20Two) - *Easy*
 - [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) - *Medium*
 - [Construct Uniform Parity Array I](./LeetCode/Easy/Construct%20Uniform%20Parity%20Array%20I) - *Easy*
