@@ -21,3 +21,4 @@ Check these off as you review them!
 - [ ] **Minimum Bit Flips to Convert Number** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Minimum%20Bit%20Flips%20to%20Convert%20Number)
 - [ ] **Pow(x, n)** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Powx%20n)
 - [ ] **Distinct Prime Factors of Product of Array** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Distinct%20Prime%20Factors%20of%20Product%20of%20Array)
+- [ ] **Rank Transform of an Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array)
