@@ -10,6 +10,7 @@ All solved problems organized by pattern/category.
 - [Maximum Number of Balloons](./LeetCode/Easy/Maximum%20Number%20of%20Balloons) - *Easy*
 
 ## Arrays & Hashing
+- [Unique 3-Digit Even Numbers](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers) - *Easy*
 - [Rank Transform of an Array](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array) - *Easy*
 - [Separate the Digits in an Array](./LeetCode/Easy/Separate%20the%20Digits%20in%20an%20Array) - *Easy*
 - [Check if Array is Good](./LeetCode/Easy/Check%20if%20Array%20is%20Good) - *Easy*
