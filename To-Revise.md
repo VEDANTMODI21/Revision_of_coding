@@ -23,3 +23,4 @@ Check these off as you review them!
 - [ ] **Distinct Prime Factors of Product of Array** (LeetCode - Medium) | [View Solution](./LeetCode/Medium/Distinct%20Prime%20Factors%20of%20Product%20of%20Array)
 - [ ] **Rank Transform of an Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array)
 - [ ] **Unique 3-Digit Even Numbers** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers)
+- [ ] **Finding 3-Digit Even Numbers** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Finding%203-Digit%20Even%20Numbers)
