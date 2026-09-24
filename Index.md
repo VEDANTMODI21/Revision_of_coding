@@ -48,6 +48,7 @@ All solved problems organized by pattern/category.
 - [Fruit Into Baskets](./LeetCode/Medium/Fruit%20Into%20Baskets) - *Medium*
 
 ## Adv Maths
+- [Smallest Index With Digit Sum Equal to Index](./LeetCode/Easy/Smallest%20Index%20With%20Digit%20Sum%20Equal%20to%20Index) - *Easy*
 - [Minimum Element After Replacement With Digit Sum](./LeetCode/Easy/Minimum%20Element%20After%20Replacement%20With%20Digit%20Sum) - *Easy*
 - [Smallest Divisible Digit Product I](./LeetCode/Easy/Smallest%20Divisible%20Digit%20Product%20I) - *Easy*
 - [Distinct Prime Factors of Product of Array](./LeetCode/Medium/Distinct%20Prime%20Factors%20of%20Product%20of%20Array) - *Medium*
