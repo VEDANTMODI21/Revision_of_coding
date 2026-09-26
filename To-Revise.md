@@ -24,3 +24,4 @@ Check these off as you review them!
 - [ ] **Rank Transform of an Array** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Rank%20Transform%20of%20an%20Array)
 - [ ] **Unique 3-Digit Even Numbers** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Unique%203-Digit%20Even%20Numbers)
 - [ ] **Finding 3-Digit Even Numbers** (LeetCode - Easy) | [View Solution](./LeetCode/Easy/Finding%203-Digit%20Even%20Numbers)
+- [ ] **null** (LeetCode - Unknown) | [View Solution](./LeetCode/Unknown/Untitled)
